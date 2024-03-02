@@ -1,0 +1,57 @@
+
+ body {
+	background-color: #1b3300;
+	background-image:url("../images/batthern.png");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-bottom: 3%;
+}
+
+div.content{
+	background-color: white;
+	text-align: center;
+	padding: 5px;
+}
+
+
+div.title {
+	margin-top: 20px;
+	margin-bottom: 0px;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+div.subtitle { 
+	margin-top: 0px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 15px;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+
+img {
+	border: 5px solid #b2b266;
+	margin-top: 5px;
+}
+
+div.pages {
+	font-size: 25px;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+li {
+	padding:2px;
+}
+
+div.updated {
+	padding: 2px;
+	font-style: italic;
+	font-size: 15px;
+	text-align: left;
+}
