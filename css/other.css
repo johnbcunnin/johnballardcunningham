@@ -61,6 +61,7 @@ div.updated {
 	font-style: italic;
 	font-size: 15px;
 	text-align: left;
+	display: none;
 }
 
 footer {
